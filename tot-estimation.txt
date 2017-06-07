@@ -4,6 +4,7 @@ Below are the high level time estimation for the requirements. Given timeline ma
 
     Wrong UI/UX - One option is we can disable the designer clicking? If we create a new page talking about designers that will require page design development work. If we create a new page effort involved? - Srini & Anika 
     
+
     # 2days to create New page according to the design with responsive.
 
 2) STYLE TRENDS TO SHOP THE LOOK
@@ -18,7 +19,6 @@ Below are the high level time estimation for the requirements. Given timeline ma
     # 3day for Blog page and detail page with responsive.
 
 4) SUBSCRIBE BANNER DROP DOWN
-
 
 
     News letters will help create our brand identity
