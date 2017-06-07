@@ -19,6 +19,8 @@ Below are the high level time estimation for the requirements. Given timeline ma
 
 4) SUBSCRIBE BANNER DROP DOWN
 
+
+
     News letters will help create our brand identity
     Subscription with mailchimp may be? again estimate UI & back end - Srini & Anika
 
