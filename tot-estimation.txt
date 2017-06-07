@@ -1,0 +1,35 @@
+Below are the high level time estimation for the requirements. Given timeline may deffer depend upon the backend.
+
+1) DESIGNER TAB CLICK PROBLEM
+
+    Wrong UI/UX - One option is we can disable the designer clicking? If we create a new page talking about designers that will require page design development work. If we create a new page effort involved? - Srini & Anika 
+    
+    # 2days to create New page according to the design with responsive.
+
+2) STYLE TRENDS TO SHOP THE LOOK
+
+    # 1day - Estimate time using lookbook plugin and the new page can just be the same image we have on style trends but we instead put the look there and then 
+	add to cart from there. Estimation on lookbook plugin integration
+
+3) BLOG TAB
+
+    https://www.getnatty.com/blog-posts/    Look at the page here in blog we will have image text or sometimes video in future ( youtube). Time estimate for that - Srini
+
+    # 3day for Blog page and detail page with responsive.
+
+4) SUBSCRIBE BANNER DROP DOWN
+
+    News letters will help create our brand identity
+    Subscription with mailchimp may be? again estimate UI & back end - Srini & Anika
+
+    # 3hr for newsletter with responsive
+
+6) PUSH NOTIFICATION BUTTON
+
+    # Gautam will provide the estimation for this 
+
+7) PRESS TAB
+
+    Estimate  Srini ( just like homestudio press tab)
+
+    # 1day with responsive.
